@@ -1,2 +1,0 @@
-# zpeek
-Practice your pronunciation

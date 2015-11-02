@@ -9,7 +9,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("Profora.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("zpeek.Resource", IsApplication=true)]
 
 namespace zpeek
 {
@@ -60,14 +60,14 @@ namespace zpeek
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050002
+			public const int btnPlay = 2131034114;
+			
 			// aapt resource value: 0x7f050003
 			public const int btnRecord = 2131034115;
 			
 			// aapt resource value: 0x7f050001
 			public const int btnSpeak = 2131034113;
-			
-			// aapt resource value: 0x7f050002
-			public const int imageSwitcher1 = 2131034114;
 			
 			// aapt resource value: 0x7f050000
 			public const int wordTextInput = 2131034112;

@@ -11,13 +11,13 @@
         android:id="@+id/btnSpeak"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Speak" />
-    <ImageSwitcher
-        android:minWidth="25px"
-        android:minHeight="25px"
+        android:text="Speak"
+        android:layout_marginBottom="33.4dp" />
+    <Button
+        android:text="Play"
         android:layout_width="match_parent"
-        android:layout_height="140.7dp"
-        android:id="@+id/imageSwitcher1" />
+        android:layout_height="84.8dp"
+        android:id="@+id/btnPlay" />
     <Button
         android:id="@+id/btnRecord"
         android:layout_width="fill_parent"
