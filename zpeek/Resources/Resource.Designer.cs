@@ -11,7 +11,7 @@
 
 [assembly: global::Android.Runtime.ResourceDesignerAttribute("Profora.Resource", IsApplication=true)]
 
-namespace Profora
+namespace zpeek
 {
 	
 	

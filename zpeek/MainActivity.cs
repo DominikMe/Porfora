@@ -7,12 +7,11 @@ using Android.Widget;
 using Android.OS;
 using Android.Speech.Tts;
 
-namespace Profora
+namespace zpeek
 {
-	[Activity(Label = "Profora", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity(Label = "zpeek", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
-		int count = 1;
 		private EditText _editText;
 		private TextToSpeech _tts;
 
